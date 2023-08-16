@@ -1,0 +1,1 @@
+use npx vite for start the app
